@@ -1,0 +1,73 @@
+.card-recados{
+    background-color: #ffdf61;
+    width: 275px;
+    float: left;
+    white-space: normal;
+    overflow-x: auto;
+    height: 34vh;
+}
+.card-recados-body{
+    display: block;
+}
+.recados-bloco{
+    overflow-x: auto;
+    background-color: #ffdf61;
+}
+.listaRecados{
+    margin: 4px, 4px;
+    padding: 4px;
+    width: 100vw;
+    height: 40vh;
+    overflow-x: auto;
+    overflow-y: auto;
+    white-space: nowrap;
+}
+.infor{
+    background: #525e75;
+    color: #EDE6DB;
+}
+.principal{
+    background-color: #32383e6b;
+}
+
+.footer{
+    background-color: #1A3C40!important;
+}
+.navbar{
+    background-color: #1A3C40!important;
+
+}
+.nav-item{
+    color: black;
+}
+.nav-link:hover{
+    background-color: #fcfbdc;
+    color: black!important;
+    border-radius: 60%;
+}
+.totalRegistros{
+    color: #fcfbdc;
+    margin-left: 1%;
+}
+.listTable{
+    background-color: #32383e6b;
+}
+.badge{
+    background-color: #1A3C40!important;
+    margin-left: 1%;
+}
+.modal-content{
+    background-color: #c5c5c5f5;
+}
+.btn-dark:hover, .bi:hover{
+    background-color:#fcfbdc ;
+    color:#1A3C40 ;
+}
+.chart{
+
+    width: 100%;
+    background: #fcfbdcb8;
+    max-width: 600px;
+    display: unset!important;
+    white-space: nowrap;
+}
